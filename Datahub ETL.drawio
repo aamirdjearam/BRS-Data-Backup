@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T04:04:46.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="iS-iLJKDie8UWmIldmOr" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T04:07:17.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="gUF4s_mDXaJPQhvECg5J" version="24.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3033" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Ee10irQ_H0JBk5VNjL8S-26" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=none;fontColor=#ffffff;strokeColor=#3700CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-140" y="549.5" width="1553" height="1000.5" as="geometry" />
-        </mxCell>
-        <mxCell id="XUQ8zp51NJ9jyHB_8XC5-46" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="476.75" y="620" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="XUQ8zp51NJ9jyHB_8XC5-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140.5" y="685" width="240" height="130" as="geometry" />
@@ -79,9 +76,6 @@
         <mxCell id="XUQ8zp51NJ9jyHB_8XC5-18" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.download_distribution;fillColor=#F58536;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="576.5" y="187.5" width="69" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="XUQ8zp51NJ9jyHB_8XC5-24" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#2072B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="536.75" y="704.5" width="48.5" height="61" as="geometry" />
-        </mxCell>
         <mxCell id="XUQ8zp51NJ9jyHB_8XC5-25" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="753" y="569" width="60" height="80" as="geometry" />
         </mxCell>
@@ -97,8 +91,8 @@
         <mxCell id="XUQ8zp51NJ9jyHB_8XC5-29" value="Per Default Dataset (X26)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-77" y="600" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XUQ8zp51NJ9jyHB_8XC5-30" value="Write-Protected DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="491" y="810" width="140" height="30" as="geometry" />
+        <mxCell id="XUQ8zp51NJ9jyHB_8XC5-30" value="Read-Only Oracle DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="518.5" y="815" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XUQ8zp51NJ9jyHB_8XC5-34" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="933.5" y="659" width="106.5" height="111" as="geometry" />
@@ -156,6 +150,9 @@
         </mxCell>
         <mxCell id="XUQ8zp51NJ9jyHB_8XC5-65" value="BRS + External Dataset" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="916.75" y="1000" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XUQ8zp51NJ9jyHB_8XC5-66" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rds;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="501.5" y="627.5" width="174" height="174" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
