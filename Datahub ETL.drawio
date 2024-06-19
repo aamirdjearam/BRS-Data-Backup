@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T19:58:24.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="KlvO-W2GR7raA2QMzIJK" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-19T20:00:16.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="QhMJpnbEnrF-pUU3nZsV" version="24.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3217" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="Zo9sLtNKa7vrdNPOI_z0-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1147" y="980" width="85" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Zo9sLtNKa7vrdNPOI_z0-5" value="&lt;font color=&quot;#000000&quot;&gt;Users&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;resizable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220.5" y="1060" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
